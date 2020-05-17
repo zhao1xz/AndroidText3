@@ -1,2 +1,2 @@
 include ':app', ':media', ':senior', ':animation', ':device', ':weixin', ':test', ':junior', ':filedialog', ':middle', ':network', ':performance', ':custom', ':storage', ':thirdsdk', ':mixture', ':event', ':group'
-rootProject.name='My Application'
+rootProject.name='First'

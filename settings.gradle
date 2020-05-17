@@ -1,5 +1,5 @@
 rootProject.name='FestEc'
-include ':example'
+include ':example', ':app'
 include ':latte-annotations'
 include ':latte-compiler'
 include ':latte-core'
